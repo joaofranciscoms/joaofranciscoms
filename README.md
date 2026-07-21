@@ -55,14 +55,3 @@ Olá! Me chamo João Francisco, tenho 18 anos e sou acadêmico de Engenharia de 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofranciscoms&theme=dark&layout=compact&custom_title=Linguagens&langs_count=1" 
-  />
-
-</p>

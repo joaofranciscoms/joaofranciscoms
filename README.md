@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá! Me chamo João Francisco, tenho 18 anos e sou acadêmico de Engenharia de Software na UTFPR. Atualmente, venho aprofundando meus estudos no desenvolvimento Backend com Java, focando na criação de APIs REST e explorando tecnologias como Spring Data JPA e Spring Security. Para complementar a arquitetura das aplicações, também possuo conhecimento prático em banco de dados utilizando SQL, com foco no PostgreSQL. Como parte da minha evolução na programação, também tenho uma base em C, além de noções em HTML, CSS e JavaScript. Estou em constante desenvolvimento e sempre em busca de novos desafios para consolidar meu aprendizado!
+Olá! Me chamo João Francisco, tenho 18 anos e sou acadêmico de Engenharia de Software na UTFPR. Atualmente, venho aprofundando meus estudos no desenvolvimento Backend com Java, focando na criação de APIs REST e explorando tecnologias como Spring Data JPA e Spring Security. Para complementar a arquitetura das aplicações, também possuo conhecimento prático em banco de dados utilizando SQL, com foco no PostgreSQL. Como parte da minha evolução na programação, também tenho uma base em C, além de noções em HTML, CSS e JavaScript.
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -22,24 +22,6 @@ Olá! Me chamo João Francisco, tenho 18 anos e sou acadêmico de Engenharia de 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Javascript" 
-    title="Javascript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>        
-
-<img 
-    align="left" 
-    alt="Nodejs" 
-    title="Nodejs"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
 />
 
 <br/>

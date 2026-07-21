@@ -39,7 +39,7 @@ Olá! Me chamo João Francisco, tenho 18 anos e sou acadêmico de Engenharia de 
     title="Nodejs"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 
 <br/>

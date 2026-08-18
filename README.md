@@ -1,6 +1,6 @@
 # 🏂 João Francisco Martins Simão 
 
-**`Desenvolvedor Backend | Java & Spring Boot`**
+**Desenvolvedor Backend | Java & Spring Boot**
 
 Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Java, construindo APIs REST com Spring Boot e módulos do ecossistema Spring, como Spring Security e Spring Data JPA, buscando aplicar boas práticas de arquitetura e segurança. Tenho experiência com bancos de dados relacionais, como PostgreSQL e MySQL, para modelagem e persistência de dados. Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor de Software.
 

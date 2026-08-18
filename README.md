@@ -1,6 +1,6 @@
 # 👨‍💻 João Francisco Martins Simão 
 
-**`Desenvolvedor Backend`**
+Desenvolvedor Backend | Java & Spring Boot
 
 
 

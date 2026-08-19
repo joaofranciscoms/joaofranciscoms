@@ -26,11 +26,11 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
 
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
 
 <img 
@@ -44,11 +44,11 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
 
 <img 
     align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 
 <img 

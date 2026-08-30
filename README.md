@@ -4,6 +4,8 @@
 
 Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Java, construindo APIs REST com Spring Boot e módulos do ecossistema Spring, como Spring Security e Spring Data JPA, buscando aplicar boas práticas de arquitetura e segurança. Tenho experiência com bancos de dados relacionais, como PostgreSQL e MySQL, para modelagem e persistência de dados. Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor de Software.
 
+Atualmente em transição para uma atuação fullstack, aprofundando conhecimentos em HTML, CSS, JavaScript e Angular para construção de interfaces, com foco na integração via APIs back for front (BFF) entre o frontend e os serviços Spring Boot. 
+
 ## 🔨 Tech Stack
 
 <img 

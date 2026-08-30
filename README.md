@@ -44,6 +44,15 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
 
 <img 
     align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="HTML" 
     title="HTML"
     width="30px" 
@@ -85,15 +94,6 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
           
 <br/>

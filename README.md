@@ -100,4 +100,4 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=joaofranciscoms&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=joaofranciscoms&langs_count=4&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=&langs_count=4&theme=dark)

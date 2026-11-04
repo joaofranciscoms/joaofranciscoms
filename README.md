@@ -26,11 +26,29 @@ Sou estudante de Engenharia de Software na UTFPR. Trabalho principalmente com Ja
 
 <img 
     align="left" 
+    alt="JWT" 
+    title="JWT"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jwt/jwt-original.svg"
+/>
+
+<img 
+    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="SQLServer" 
+    title="SQLServer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
 />
 
 <img 
